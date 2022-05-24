@@ -1,0 +1,59 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ebay/nice-modal-react": "^1.1.1",
+    "@emotion/react": "^11.7.0",
+    "@emotion/styled": "^11.6.0",
+    "@mui/icons-material": "^5.2.0",
+    "@mui/lab": "^5.0.0-alpha.61",
+    "@mui/material": "^5.2.2",
+    "@mui/styled-engine-sc": "^5.1.0",
+    "@mui/styles": "^5.2.3",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.24.0",
+    "chokidar": "^3.4.3",
+    "crypto-js": "^4.1.1",
+    "dompurify": "^2.3.5",
+    "moment": "^2.29.1",
+    "react": "^17.0.2",
+    "react-countdown": "^2.3.2",
+    "react-dom": "^17.0.2",
+    "react-query": "^3.34.0",
+    "react-quill": "^2.0.0-beta.4",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "4.0.3",
+    "react-slick": "^0.28.1",
+    "react-swipeable-views": "^0.14.0",
+    "slick-carousel": "^1.8.1",
+    "uuid": "^8.3.2",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
